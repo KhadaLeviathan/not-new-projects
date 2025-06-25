@@ -1,0 +1,35 @@
+#numCount{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: rgb(236, 134, 0);
+    background-color: rgb(37, 36, 37);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: bisque;
+}
+
+#congratsP{
+    text-align: center;
+    display: block;
+    font-size: 4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.huggy{
+    display: block;
+    width: 250px;
+    margin: auto;
+    
+}

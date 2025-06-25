@@ -1,0 +1,1 @@
+In numberCount there is a bear JPG, but i deleted it in case of copyright issues. 
